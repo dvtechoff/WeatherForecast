@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="mic_desc" translatable="false">mic for search</string>
+    <string name="pressure">PRESSURE</string>
+    <string name="wind">WIND</string>
+    <string name="humidity">HUMIDITY</string>
+    <string name="enter_city_name">ENTER CITY NAME</string>
+    <string name="updated_at">UPDATED AT</string>
+    <string name="developer">Developed By Devansh Verma</string>
+    <string name="temperature">Temperature:</string>
+</resources>
